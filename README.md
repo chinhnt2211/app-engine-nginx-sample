@@ -1,1 +1,1 @@
-# app-engine-nginx-sample
+# Nginx Sample Code for App Engine FCI
